@@ -32,8 +32,8 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "poem"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Collections", name: "tags", widget: "list", required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: Image, name: image, widget: image, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Collections", name: "tags", widget: "list"}
 
