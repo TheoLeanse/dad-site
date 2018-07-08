@@ -10,7 +10,7 @@ tags:
 ---
 **For I am come home again, but there is nobody to**
 
-**   kill the calf or to pay the music.**
+**kill the calf or to pay the music.**
 
 **\- Christopher Smart**
 
